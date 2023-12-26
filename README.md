@@ -2,4 +2,4 @@
 
 Travel Blog:    https://amiyahidayathulla.github.io/Travel-Blog/
 
-(find more by selecting 'Blog' and scroll down)
+(to find more: select 'Blog' and scroll down)
